@@ -1,5 +1,14 @@
 /** @format */
 
+/*This code has been added to resolve issue-2*/
+
+body {
+  font-family: 'Franklin Gothic Medium';
+  font-style: italic;
+}
+
+/*issue-2 should now be resolved*/
+
 /* Styling for all unordered lists on the age*/
 ul {
   list-style-type: none;
