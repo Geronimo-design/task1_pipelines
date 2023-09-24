@@ -1,0 +1,67 @@
+/** @format */
+
+/*Styling for all observable content within the file*/
+body {
+  text-align: center;
+}
+
+/*Keeping button styles consistent*/
+button {
+  background-color: palegreen;
+  border-radius: 80px;
+  margin: 35px;
+}
+
+#article-button {
+  background-color: palegreen;
+  border-radius: 80px;
+  margin: 0px;
+}
+
+/*Only styles the three links on the top of the page*/
+#links {
+  list-style-type: none;
+}
+
+/*Styling for the area around the page's main content*/
+.main_content {
+  margin: 200px;
+}
+
+/*Styling for the quoted text towards the top of the page*/
+#header {
+  background-color: wheat;
+  border: 10px solid black;
+  margin: 50px;
+  padding: 0.05px;
+  font-size: medium;
+}
+
+/* Styling for the image*/
+#velociraptor {
+  height: 500px;
+  width: 800px;
+}
+
+/*Styling for the text of main content of the page*/
+main {
+  font-size: large;
+}
+
+h2 {
+  margin-top: 100px;
+}
+
+table {
+  margin-bottom: 100px;
+}
+
+/*styling for the input form in the footer*/
+.radio_form {
+  list-style-type: none;
+}
+
+/*Ensures that there is enough whitespace between the last input radio button and submission button in the footer*/
+#submit {
+  margin: 5px;
+}

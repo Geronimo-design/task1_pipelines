@@ -1,0 +1,43 @@
+/** @format */
+
+/* Styling for all unordered lists on the age*/
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+/*Styling for all observable content on the page*/
+body {
+  font-size: medium;
+}
+
+/*Keeping button styles consistent*/
+button {
+  background-color: palegreen;
+  border-radius: 80px;
+  margin: 10px;
+}
+
+#left_save_button {
+  margin: 180px;
+}
+
+#right_save_button {
+  margin: 180px;
+}
+
+/*Styling for the h1 tag on the page*/
+h1 {
+  text-align: center;
+}
+
+/*Styling to ensure all main content items are centred*/
+main {
+  text-align: center;
+}
+
+/*Gives instructions as to how the page's images are to be arranged*/
+.images {
+  display: flex;
+  gap: 30px;
+}
