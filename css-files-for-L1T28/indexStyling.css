@@ -2,6 +2,12 @@
 
 /*Styling for all observable content within the file*/
 
+/*This code seeks to address issue-1*/
+
+h1,h2,h3 {colour: darkgoldenrod}
+
+/*The issue-1 should now be resolved*/
+
 body {
   text-align: center;
 }
